@@ -1,0 +1,63 @@
+
+@media (max-width: 768px) {
+    /* hero part start  */
+    .banner-con button{
+        margin: 20px 0;
+    }
+    /* hero part end  */
+
+    /* contact part start  */
+    
+    
+    /* contact part end */
+}
+
+@media (max-width: 576px) {
+    /* hero part start  */
+    .banner-con h1{
+        font-size: 18px;
+        margin: 5px;
+        padding: 5px;
+    }
+    .banner-con p{
+        font-size: 12px;
+        margin: 5px;
+        padding: 0;
+    }
+    .banner-con button{
+        margin: 5px 0;
+        padding: 2px 10px;
+        font-size: 10px;
+    }
+    /* hero part end  */
+
+    /* contact part start  */
+    
+    /* contact part end
+}
+
+
+
+@media (max-width: 320px) {
+    /* hero part start  */
+    .banner-con h1{
+        font-size: 18px;
+        margin: 5px;
+        padding: 5px;
+    }
+    .banner-con p{
+        font-size: 12px;
+        margin: 5px;
+        padding: 0;
+    }
+    .banner-con button{
+        margin: 5px 0;
+        padding: 2px 10px;
+        font-size: 10px;
+    }
+    /* hero part end  */
+
+    /* contact part start  */
+    
+    /* contact part end */
+}
